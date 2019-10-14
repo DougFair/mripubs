@@ -1,0 +1,35 @@
+.container {
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+    text-align: center;
+    color: rgb(182, 179, 179);
+    display: flex;
+    justify-content: center;
+    height: auto;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 700;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(./ONJCRI.jpg);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: center
+}
+
+.bannerTitle {
+    font-size: 4rem;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.bannerImage {
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    margin-bottom: 0;
+    margin-top: 1%
+}
+
+img {
+    height: 225%
+}
